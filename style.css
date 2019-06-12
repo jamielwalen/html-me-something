@@ -1,0 +1,29 @@
+
+
+h1{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    position: fixed;
+    width: 100%;
+    font-size: 50px;
+    padding-top:0px;
+    border-top: 0px;
+    margin: 0px;
+}
+
+
+.link {
+    font-size: 20px;
+}
+
+h6 {
+    padding-top: 115px;
+}
+
+h2 {
+    padding-top: 150px;
+    font-family: Arial;  
+    
+    
+}
